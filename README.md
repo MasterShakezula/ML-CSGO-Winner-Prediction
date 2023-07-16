@@ -45,7 +45,7 @@ If using Juypter, be sure Python is installed. Then navigate to your command pro
 Proceed with installation until Juypter is set up. Open Juypter Notebook and you will be taken to a web browser tab with the Juypter interface.
 
 Make an empty notebook wherever (or, simply import the notebook within this project into yours).
-Then, run each cell one by one until you have executed the last cell (at this point, you will have gotten the score of the model).
+Then, run each cell of the project code one by one until you have executed the last cell (at this point, you will have gotten the score of the model).
 Remember to include picks.csv, results.csv, economy.csv, and players.csv in the same location your notebook is in. 
 This project's raw code will also be available in a pdf format.
 
