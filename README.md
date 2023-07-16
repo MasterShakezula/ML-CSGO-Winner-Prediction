@@ -7,9 +7,11 @@ You will need these data science stack(s) and packages installed on your compute
 It is important to note that for this iteration of my model, I focused only on results.csv to relimit the scope of this project. However, the other initial csv files are still avaliable for use. 
 
 import numpy as np (useful for data transformation and complex array operations)
+
 import pandas as pd (pandas is especially important for manipulating data in the form of CSVs and dataframes for easy processing)
 
 (These four imports below are important for data visualization and graphical information)
+
 import plotly.graph_objects as go 
 import plotly.express as px
 import matplotlib.pyplot as plt
@@ -17,12 +19,15 @@ import seaborn as sns
 
 
 (facilitate a system to train our model of choice and test give it a set of data to test and predict an output based on what it was trained on)
+
 from sklearn.model_selection import train_test_split
 
 (can scale data that may be skewed for additional preprocessing)
+
 from sklearn.preprocessing import StandardScaler 
 
 (import a RandomForestClassifier to use as our model)
+
 from sklearn.ensemble import RandomForestClassifier
 
 
