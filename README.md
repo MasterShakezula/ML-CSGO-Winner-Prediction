@@ -33,7 +33,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 #Installation tips
 
-
+Datasets Source: https://www.kaggle.com/datasets/mateusdmachado/csgo-professional-matches (contains picks.csv, results.csv, economy.csv, and players.csv.)
 
 Python: https://www.python.org/downloads/release/python-3114/
 
