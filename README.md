@@ -22,4 +22,11 @@ from sklearn.ensemble import RandomForestClassifier
 You will need data science stack(s) and packages installed on your computer, as well as Python and Anaconda.
 Python: https://www.python.org/downloads/release/python-3114/
 Anaconda: https://www.anaconda.com/
-When installing Anaconda, you may install Juypter Notebook alongside it. 
+When installing Anaconda, you may install Juypter Notebook alongside it. Juypter Notebook is not only way to run the code within this project, but it is how I personally ran it. If desired, https://www.kaggle.com/ is a quick and easy alternative to running the code.
+If using Kaggle, just copy each cell of code from this project and run it inside a new Notebook in Kaggle (be sure to import picks.csv, results.csv, economy.csv, and players.csv. as datasets first).
+If using Juypter, be sure Python is installed. Then navigate to your command prompt and run:  pip install pandas numpy matplotlib seaborn scikit-learn 
+Proceed with installation until Juypter is set up. Open Juypter Notebook and you will be taken to a web browser tab with the Juypter interface.
+Make an empty notebook wherever (or, simply import the notebook within this project).
+Then, run each cell one by one until you have executed the last cell.
+
+
