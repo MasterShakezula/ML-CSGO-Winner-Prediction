@@ -4,6 +4,8 @@ Initial datasets are picks.csv, results.csv, economy.csv, and players.csv.
 Other .csv files were generated during runtime for easier use, but the only .csv files that must be included prior to execution are picks.csv, results.csv, economy.csv, and players.csv. 
 Necessary imports are listed below. For simplicity, I imported these packages at the very beginning of the program. 
 You will need these data science stack(s) and packages installed on your computer, as well as Python and Anaconda.
+It is important to note that for this iteration of my model, I focused only on results.csv to relimit the scope of this project. However, the other initial csv files are still avaliable for use. 
+
 import numpy as np (useful for data transformation and complex array operations)
 import pandas as pd (pandas is especially important for manipulating data in the form of CSVs and dataframes for easy processing)
 
